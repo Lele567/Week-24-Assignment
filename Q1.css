@@ -1,8 +1,15 @@
 body{
   color:blue;
-  background-color:pink;
+  background-color:rgb(255,0,255);
   font-family: Comic Sans;
 }
 h1{
 font-size: 150px;
+}
+b{
+font-size:25px;
+}
+p{
+color:black;
+text-decoration:underline;
 }
